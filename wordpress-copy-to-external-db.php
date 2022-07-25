@@ -1,12 +1,10 @@
 <?php/*
-Plugin Name:  Petra Copy To External DB Plugin
-Plugin URI:   https://www.petra.com
-Description:  Copies Wordpress Blogs To Magento When Published
+Plugin Name:  Copy To External DB Plugin
+Plugin URI:   https://ezknight.net
+Description:  Copies Wordpress Blogs To External DB When Published
 Version:      20180921
-Author:       Petra.com
-Author URI:   https://www.petra.com
-License:      GPL2
-License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+Author:       E. Zachary Knight
+Author URI:   https://ezknight.net
 Text Domain:  wporg
 Domain Path:  /languages
 */
